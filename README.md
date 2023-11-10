@@ -91,7 +91,8 @@ To get started, make sure you have a Python 3.7 or a newer version installed (no
 Please follow the steps below to set up your environment.
 
 * Step 1: Clone or download this repo to your computer. For download this repo to your computer. On the top of this site, click on (1) *<>Code* tab, then in the green button (2) *Code* and then (3) *Download ZIP* (See numbers 1, 2, and 3 on the following image). Unzip this file into a working folder of your own choice.
-![image](https://github.com/TPM034A/Q2_2023/assets/29065260/a38c713b-91cd-45a3-adfa-4578b76c1dd2)
+![img](https://github.com/TPM034A/Q2_2023/assets/29065260/1b91d8bd-3425-43bd-819a-7ab41a199151)
+
 
 
 * Step 2: Now you have two options: (a) Install dependencies in a separate Python environment from your current Python version; (b) Install dependencies for this notebook in your Python version (easy way):
@@ -104,8 +105,7 @@ Please follow the steps below to set up your environment.
         * Open the Python notebook you want to work on (Step 1)
         * Uncomment the line related to using a local set-up and run it (see the figure below).
         * Re-comment the lines to avoid re-installing the dependencies every time you run the notebook.
-       ![image](https://github.com/TPM034A/Q2_2023/assets/29065260/11e626b7-5ce8-4bec-8ac6-7d30bac577ca)
-
+      ![img](https://github.com/TPM034A/Q2_2023/assets/29065260/db6821fd-00f8-4525-a2d1-0f92728ee1d2)
 
     * Instructions for creating a new virtual environment (if choose option a):
         * Open your command prompt or terminal.
@@ -127,12 +127,12 @@ Please follow the steps we've included below to set up the workspace.
 * Step 3: Sign in with your Google account (if you are already signed in, skip this step). If you do not have a Google account, you must (temporarily) create one.
 
 * Step 4: Upload the Python notebook you want to work on to Colab. Click on the "Upload" tab and then on the "Choose file" tab, see numbers 1 and 2 in the figure below. Then, navigate to your working folder (Step 1) and select the Python notebook (.ipynb) you want to work on (e.g. lab_session_00.ipynb).
-![image](https://github.com/TPM034A/Q2_2023/assets/29065260/32d3c392-3d3c-46ee-ad59-bc080dd48fc8)
+![img](https://github.com/TPM034A/Q2_2023/assets/29065260/b06c76a0-3f3b-47a5-8575-1b0b80703a8c)
 
 * Step 5: Once open, click on "View" >> "Expand sections" on the menu bar.
 
 * Step 6: Importantly, Each notebook has a cell to prepare the data and environment in Google Colab. Uncomment (i.e. remove the '#') the lines related to the Colab set-up in your notebook, see the figure below. Run this cell and wait until finished.
-![image](https://github.com/TPM034A/Q2_2023/assets/29065260/e1902a16-51aa-411e-a6d3-f5964299c2d0)
+![img](https://github.com/TPM034A/Q2_2023/assets/29065260/ee78baca-474f-47c8-b5e1-166630deecc2)
 
 * Step 7: You are all set! You can work on your notebook.
 
