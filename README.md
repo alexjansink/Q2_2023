@@ -33,7 +33,7 @@ We expect students have taken undergraduate courses on the following topics befo
 
 | Week number | Lecture no |   Weekday |       Date |          Time | Teacher | Lecture type | Materials |
 |:-----------:|:----------:|----------:|-----------:|--------------:|--------:|-------------:|----------:|
-|      46     |      0     |           |            |               |  Sander |  Lab session | [Lab session 0](https://github.com/TPM034A/Q3_2022/blob/main/Lab_sessions/lab_session_00/lab_session_00.ipynb) |
+|      46     |      0     |           |            |               |  Sander |  Lab session | [Lab session 0](https://github.com/TPM034A/Q2_2023/blob/main/Lab_sessions/lab_session_00/lab_session_00.ipynb) |
 |      46     |     1.1    |    Monday | 13-11-2023 | 13:45 - 15:45 |  Sander |      Opening |           |
 |      46     |     1.2    |   Tuesday | 14-11-2023 | 10:45 - 12:45 |  Sander | Oral lecture |           |
 |      46     |     1.3    |  Thursday | 16-11-2023 | 10:45 - 12:45 |  Sander |  Lab session |           | 
