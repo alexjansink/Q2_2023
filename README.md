@@ -70,7 +70,7 @@ If you are **unfamiliar with Python**, we recommend completing **lab session 0**
 
 ## 4. Q&A Forum
 
-We use the [Issues](https://github.com/TPM034A/Q2_2023/issues) section as the Q&A platform of this course. Here, you can post your questions related to the content of the lectures, the lab sessions, assignments and technical problems with Python. Before you create a new issue, please make sure the issue has not been raised before by one of your classmates. Besides asking questions, you can comment on the earlier issues e.g. to continue the discussion. As an example, we have already created the first issue; see [Issues](https://github.com/TPM034A/2023_internal/issues).
+We use the [Issues](https://github.com/TPM034A/Q2_2023/issues) section as the Q&A platform of this course. Here, you can post your questions related to the content of the lectures, the lab sessions, assignments and technical problems with Python. Before you create a new issue, please make sure the issue has not been raised before by one of your classmates. Besides asking questions, you can comment on the earlier issues e.g. to continue the discussion. As an example, we have already created the first issue; see [Issues](https://github.com/TPM034A/Q2_2023/issues).
 
 To create a new issue (question, discussion or problem) in the course repository, follow these steps:
 
