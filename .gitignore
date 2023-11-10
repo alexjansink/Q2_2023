@@ -1,3 +1,26 @@
+# Official gitignor for TPM034A Machine Learning for socio-technical systems 
+
+## General
+.DS_Store
+
+## Lab Sessions
+Lab_sessions/lab_session_03/data
+Lab_sessions/lab_session_03/__MACOSX
+
+## Assignments
+Assignments/assignment_03/data
+Assignments/assignment_03/__MACOSX
+
+## Older files
+Lab_sessions/lab_session_03/new_data/df_F1000_U_all_pretrained.pkl
+Lab_sessions/lab_session_03/new_data/df_F1000_U_all_selftrained.pkl
+Lab_sessions/lab_session_03/new_data/df_Fhat25_U_pretrained.pkl
+Lab_sessions/lab_session_03/new_data/df_Fhat50_U_pretrained.pkl
+Lab_sessions/lab_session_03/new_data/df_Fhat100_U_pretrained.pkl
+Assignments/assignment_03/assets/__pycache__/data_downloader.cpython-310.pyc
+Lab_sessions/lab_session_03/assets/__pycache__/image_downloader.cpython-310.pyc
+Lab_sessions/lab_session_03/assets/__pycache__/__init__.cpython-310.pyc
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
