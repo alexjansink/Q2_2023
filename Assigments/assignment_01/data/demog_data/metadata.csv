@@ -1,0 +1,75 @@
+variable,explanation
+grid_id,id of the grid cell
+INWONER_XXXX,Number of inhabitants in year XXXX
+VROUW_XXXX,Number of women
+INW_014_XXXX,Number of individuals between 0 and 14 years old
+INW_1524_XXXX,Number of individuals between 15 and 24 years old
+INW_2544_XXXX,Number of individuals between 25 and 44 years old
+INW_4564_XXXX,Number of individuals between 45 and 64 years old
+INW_65PL_XXXX,Number of individuals older than 65 years old
+GEBOORTE_XXXX,Number of birth in year XXXX
+P_NL_ACHTG_XXXX,Share of population from Dutch descent
+P_WE_MIG_A_XXXX,Share of population with a Western migration background
+P_NW_MIG_A_XXXX,Share of population with a non-Western migration background
+AANTAL_HH_XXXX,Number of households
+TOTHH_EENP_XXXX,Number of individual households
+TOTHH_MPZK_XXXX,Number of several-individuals households (excluding families)
+HH_EENOUD_XXXX,Number of mono-parental households
+HH_TWEEOUD_XXXX,Number of bi-parental households
+GEM_HH_GR_XXXX,Average household size
+WONING_XXXX,Number of housing units
+WONVOOR45_XXXX,Number of housing units built before 1945
+WON_4564_XXXX,Number of housing units built between 1945 and 64
+WON_6574_XXXX,Number of housing units built between 1965 and 74
+WON_7584_XXXX,Number of housing units built between 1975 and 84
+WON_8594_XXXX,Number of housing units built between 1985 and 94
+WON_9504_XXXX,Number of housing units built between 1995 and 2004
+WON_0514_XXXX,Number of housing units built between 2005 and 2014
+WON_1524_XXXX,Number of housing units built between 2015 and 2024
+WON_MRGEZ_XXXX,Number of multi-family homes
+P_HUURWON_XXXX,Share of rented housing
+P_KOOPWON_XXXX,Share of homeownership housing
+WON_HCORP_XXXX,Number of public housing units
+WON_NBEW_XXXX,Number of uninhabited units
+G_GAS_WON_XXXX,Average consumption of gaz per households [m3]
+G_ELEK_WON_XXXX,Average consumption of electricity per households [kWh]
+UITKMINAOW_XXXX,Number of residents who receive unemployment benefits
+AFS_SUPERM_XXXX,Distance to the closest supermarket [km]
+AV1_SUPERM_XXXX,Number of supermarket within 1km radius
+AFS_DAGLMD_XXXX,Distance to the closest food store
+AV1_DAGLMD_XXXX,Number of food store within 1km radius
+AFS_WARENH_XXXX,Distance to the closest merchandise store
+AFS_CAFE_XXXX,Distance to the closest cafe
+AV1_CAFE_XXXX,Number of cafes within 1km radius
+AFS_CAFTAR_XXXX,Distance to the closest fast food restaurant
+AV1_CAFTAR_XXXX,Number of fast food restaurant within 1km radius
+AFS_HOTEL_XXXX,Distance to the closest hotel
+AFS_RESTAU_XXXX,Distance to the closest restaurant
+AV1_RESTAU_XXXX,Number of restaurant within 1km radius
+AFS_BSO_XXXX,Distance to the closest after-school care center
+AV1_BSO_XXXX,Number of after-school care center within 1km radius
+AFS_KDV_XXXX,Distance to the closest daycare center
+AV1_KDV_XXXX,Number of daycare center within 1km radius
+AFS_OPRIT_XXXX,Distance to the closest national road
+AFS_TRNOVS_XXXX,Distance to the closest interchange station
+AFS_TREINS_XXXX,Distance to the closest train station
+AFS_ATTRAC_XXXX,Distance to the closest amusement park or zoo
+AFS_BIOS_XXXX,Distance to the closest cinema
+AFS_MUS_XXXX,Distance to the closest museum
+AFS_PODIUM_XXXX,Distance to the closest music venue
+AFS_BIBLIO_XXXX,Distance to the closest library
+AF_IJSBAAN_XXXX,Distance to the closest ice skating rink
+AFS_SAUNA_XXXX,Distance to the closest sauna
+AFS_ZONBNK_XXXX,Distance to the closest sunbed
+AFS_ZWEMB_XXXX,Distance to the closest swimming pool
+AFS_ONDBAS_XXXX,Distance to the closest primary school
+AV1_ONDBAS_XXXX,Number of primary schools within 1km radius
+AFS_ONDHV_XXXX,Distance to the closest high school
+AFS_ONDVMB_XXXX,Distance to the closest vocational school
+AFS_ONDVRT_XXXX,Distance to the closest technical school
+AFS_HAPRAK_XXXX,Distance to the closest GP
+AV1_HAPRAK_XXXX,Number of GP within 1km radius
+AFS_ZIEK_E_XXXX,Distance to the closest hospital excluding clinics
+AFS_ZIEK_I_XXXX,Distance to the closest hospital including clinics
+AFS_APOTH_XXXX,Distance to the closest pharmacy
+AFS_HAPOST_XXXX,Distance to the closest night GP
