@@ -35,7 +35,7 @@ We expect students have taken undergraduate courses on the following topics befo
 |:-----------:|:----------:|----------:|-----------:|--------------:|--------:|-------------:|----------:|
 |      46     |      0     |           |            |               |  Sander |  Lab session | [Lab session 0](https://github.com/TPM034A/Q2_2023/blob/main/Lab_sessions/lab_session_00/lab_session_00.ipynb) |
 |      46     |     1.1    |    Monday | 13-11-2023 | 13:45 - 15:45 |  Sander |      Opening | [lecture 1](https://brightspace.tudelft.nl/d2l/le/content/598105/viewContent/3559425/View)          |
-|      46     |     1.2    |   Tuesday | 14-11-2023 | 10:45 - 12:45 |  Sander | Oral lecture | [Background material](https://tudelft.on.worldcat.org/search/detail/1224544552?queryString=geron%20hands%20on%20machine%20learning&clusterResults=false&groupVariantRecords=false)          |
+|      46     |     1.2    |   Tuesday | 14-11-2023 | 10:45 - 12:45 |  Sander | Oral lecture | [Background material part 1](https://tudelft.on.worldcat.org/search/detail/1224544552?queryString=geron%20hands%20on%20machine%20learning&clusterResults=false&groupVariantRecords=false)          |
 |      46     |     1.3    |  Thursday | 16-11-2023 | 10:45 - 12:45 |  Sander |  Lab session | [Lab session 1](https://github.com/TPM034A/Q2_2023/blob/main/Lab_sessions/lab_session_01/lab_session_01.ipynb) | 
 |      47     |     1.4    |    Monday | 20-11-2023 | 13:45 - 15:45 |  Sander | Oral lecture |           |
 |      47     |  NO CLASS  |   Tuesday | 21-11-2023 | 10:45 - 12:45 |         |        Spare |           |
