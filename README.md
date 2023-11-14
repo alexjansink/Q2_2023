@@ -31,30 +31,30 @@ We expect students have taken undergraduate courses on the following topics befo
 
 ## 2. Calendar
 
-| Week number | Lecture no |   Weekday |       Date |          Time | Teacher | Lecture type |    Topic     | Materials |
-|:-----------:|:----------:|----------:|-----------:|--------------:|--------:|-------------:|-------------:|----------:|
+| Week number | Lecture no |   Weekday |       Date |          Time | Teacher | Lecture type |    Topic     |  Materials |
+|:-----------:|:----------:|----------:|-----------:|--------------:|--------:|-------------:|-------------:|-----------:|
 |      46     |      0     |           |            |               |  Sander |  Lab session |              | [Lab session 0](https://github.com/TPM034A/Q2_2023/blob/main/Lab_sessions/lab_session_00/lab_session_00.ipynb) |
-|      46     |     1.1    |    Monday | 13-11-2023 | 13:45 - 15:45 |  Sander |      Opening | Motivation; LOs; Practical info | [lecture 1](https://brightspace.tudelft.nl/d2l/le/content/598105/viewContent/3559425/View)          |
-|      46     |     1.2    |   Tuesday | 14-11-2023 | 10:45 - 12:45 |  Sander | Oral lecture | ML; Generalisation; Model development | [Book part 1](https://tudelft.on.worldcat.org/search/detail/1224544552?queryString=geron%20hands%20on%20machine%20learning&clusterResults=false&groupVariantRecords=false)  [lecture 2](https://brightspace.tudelft.nl/d2l/le/content/598105/viewContent/3562326/View)        |
+|      46     |     1.1    |    Monday | 13-11-2023 | 13:45 - 15:45 |  Sander |      Opening | Motivation; LOs; Practical info | [lecture 1](https://brightspace.tudelft.nl/d2l/le/content/598105/viewContent/3559425/View) |
+|      46     |     1.2    |   Tuesday | 14-11-2023 | 10:45 - 12:45 |  Sander | Oral lecture | ML; Generalisation; Model development | [Book part 1](https://tudelft.on.worldcat.org/search/detail/1224544552?queryString=geron%20hands%20on%20machine%20learning&clusterResults=false&groupVariantRecords=false)  [lecture 2](https://brightspace.tudelft.nl/d2l/le/content/598105/viewContent/3562326/View) |
 |      46     |     1.3    |  Thursday | 16-11-2023 | 10:45 - 12:45 |  Sander |  Lab session |              | [Lab session 1](https://github.com/TPM034A/Q2_2023/blob/main/Lab_sessions/lab_session_01/lab_session_01.ipynb) | 
 |      47     |     1.4    |    Monday | 20-11-2023 | 13:45 - 15:45 |  Sander | Oral lecture | Decision trees; Model performance |           |
-|      47     |  NO CLASS  |   Tuesday | 21-11-2023 | 10:45 - 12:45 |         |        Spare |              |           |
+|      47     |  NO CLASS  |   Tuesday | 21-11-2023 | 10:45 - 12:45 |         |        Spare |              |                |
 |      47     |     1.5    |  Thursday | 23-11-2023 | 10:45 - 12:45 |  Sander | Oral lecture | Artificial neural networks |           |
-|      48     |     1.6    |    Monday | 27-11-2023 | 13:45 - 15:45 |  Sander |  Lab session |              |           |
-|      48     |  NO CLASS  |   Tuesday | 28-11-2023 | 10:45 - 12:45 |         |        Spare |              |           |
+|      48     |     1.6    |    Monday | 27-11-2023 | 13:45 - 15:45 |  Sander |  Lab session |              |                |
+|      48     |  NO CLASS  |   Tuesday | 28-11-2023 | 10:45 - 12:45 |         |        Spare |              |                |
 |      48     |     1.7    |  Thursday | 30-11-2023 | 10:45 - 12:45 |  Sander | Oral lecture | Ensembles; Random forest |           |
 |      49     |     1.8    |    Monday | 04-12-2023 | 13:45 - 15:45 |  Sander | Oral lecture | Causality; Prediction; Exam preparation |           |
-|      49     |     1.9    |   Tuesday | 05-12-2023 | 10:45 - 12:45 |  Sander | Lab session  |              |           |
+|      49     |     1.9    |   Tuesday | 05-12-2023 | 10:45 - 12:45 |  Sander | Lab session  |              |                |
 |      49     |     2.1    |  Thursday | 07-12-2023 | 10:45 - 12:45 | Giacomo | Oral lecture |              | [Barredo et al. 2020](https://doi.org/10.1016/j.inffus.2019.12.012);[Lundbert & Lee 2017](https://proceedings.neurips.cc/paper_files/paper/2017/hash/8a20a8621978632d76c43dfd28b67767-Abstract.html); [Rolnick et al. 2022](https://doi.org/10.1145/3485128) [Razavi et al. 2021](https://doi.org/10.1016/j.envsoft.2020.104954) |
-|      50     |     2.2    |    Monday | 11-12-2023 | 13:45 - 15:45 | Giacomo | Oral lecture |              |           |
-|      50     |     2.3    |   Tuesday | 12-12-2023 | 10:45 - 12:45 | Giacomo | Lab session  |              |           |
-|      50     |     3.1    |  Thursday | 14-12-2023 | 10:45 - 12:45 |    Amir | Oral lecture |              |           |
-|      51     |     3.2    |    Monday | 18-12-2023 | 13:45 - 15:45 |    Amir | Mini project |              |           |
-|      51     |  NO CLASS  |   Tuesday | 19-12-2023 | 10:45 - 12:45 |         |        Spare |              |           |
-|      51     |     3.3    |  Thursday | 21-12-2023 | 10:45 - 12:45 |    Amir | Mini project |              |           |
-|      2      |     3.4    |    Monday | 08-01-2024 | 13:45 - 15:45 |    Amir | Mini project |              |           |
-|      2      |  NO CLASS  |   Tuesday | 09-01-2024 | 10:45 - 12:45 |         |        Spare |              |           |
-|      2      |     3.5    |  Thursday | 11-01-2024 | 10:45 - 12:45 |    Amir | Oral lecture |              |           |
+|      50     |     2.2    |    Monday | 11-12-2023 | 13:45 - 15:45 | Giacomo | Oral lecture |              |                |
+|      50     |     2.3    |   Tuesday | 12-12-2023 | 10:45 - 12:45 | Giacomo | Lab session  |              |                |
+|      50     |     3.1    |  Thursday | 14-12-2023 | 10:45 - 12:45 |    Amir | Oral lecture | Group projects |                |
+|      51     |     3.2    |    Monday | 18-12-2023 | 13:45 - 15:45 |    Amir | Mini project |              |                |
+|      51     |  NO CLASS  |   Tuesday | 19-12-2023 | 10:45 - 12:45 |         |        Spare |              |                |
+|      51     |     3.3    |  Thursday | 21-12-2023 | 10:45 - 12:45 |    Amir | Mini project |              |                |
+|      2      |     3.4    |    Monday | 08-01-2024 | 13:45 - 15:45 |    Amir | Mini project |              |                |
+|      2      |  NO CLASS  |   Tuesday | 09-01-2024 | 10:45 - 12:45 |         |        Spare |              |                |
+|      2      |     3.5    |  Thursday | 11-01-2024 | 10:45 - 12:45 |    Amir | Oral lecture | Group presentations |                |
 
 ## 3. Jupyter notebooks (Lab sessions and Assignments)
 
