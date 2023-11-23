@@ -40,7 +40,7 @@ We expect students have taken undergraduate courses on the following topics befo
 |      47     |     1.4    |    Monday | 20-11-2023 | 13:45 - 15:45 |  Sander | Oral lecture | Decision trees; Model performance |           |
 |      47     |  NO CLASS  |   Tuesday | 21-11-2023 | 10:45 - 12:45 |         |        Spare |              |                |
 |      47     |     1.5    |  Thursday | 23-11-2023 | 10:45 - 12:45 |  Sander | Oral lecture | Artificial neural networks |           |
-|      48     |     1.6    |    Monday | 27-11-2023 | 13:45 - 15:45 |  Sander |  Lab session |              | [Lab session 1](https://github.com/TPM034A/Q2_2023/blob/main/Lab_sessions/lab_session_02/lab_session_02.ipynb)               |
+|      48     |     1.6    |    Monday | 27-11-2023 | 13:45 - 15:45 |  Sander |  Lab session |              | [Lab session 2](https://github.com/TPM034A/Q2_2023/blob/main/Lab_sessions/lab_session_02/lab_session_02.ipynb)               |
 |      48     |  NO CLASS  |   Tuesday | 28-11-2023 | 10:45 - 12:45 |         |        Spare |              |                |
 |      48     |     1.7    |  Thursday | 30-11-2023 | 10:45 - 12:45 |  Sander | Oral lecture | Ensembles; Random forest |           |
 |      49     |     1.8    |    Monday | 04-12-2023 | 13:45 - 15:45 |  Sander | Oral lecture | Causality; Prediction; Exam preparation |           |
