@@ -37,9 +37,9 @@ We expect students have taken undergraduate courses on the following topics befo
 |      46     |     1.1    |    Monday | 13-11-2023 | 13:45 - 15:45 |  Sander |      Opening | Motivation; LOs; Practical info | [Lecture 1](https://brightspace.tudelft.nl/d2l/le/content/598105/viewContent/3559425/View) |
 |      46     |     1.2    |   Tuesday | 14-11-2023 | 10:45 - 12:45 |  Sander | Oral lecture | ML; Generalisation; Model development | [Book part 1](https://tudelft.on.worldcat.org/search/detail/1224544552?queryString=geron%20hands%20on%20machine%20learning&clusterResults=false&groupVariantRecords=false); [Lecture 2](https://brightspace.tudelft.nl/d2l/le/content/598105/viewContent/3562326/View) |
 |      46     |     1.3    |  Thursday | 16-11-2023 | 10:45 - 12:45 |  Sander |  Lab session | Liveability in NL | [Lab session 1](https://github.com/TPM034A/Q2_2023/blob/main/Lab_sessions/lab_session_01/lab_session_01.ipynb) | 
-|      47     |     1.4    |    Monday | 20-11-2023 | 13:45 - 15:45 |  Sander | Oral lecture | Decision trees; Model performance |           |
+|      47     |     1.4    |    Monday | 20-11-2023 | 13:45 - 15:45 |  Sander | Oral lecture | Decision trees; Model performance | [Lecture 4](https://brightspace.tudelft.nl/d2l/le/content/598105/viewContent/3565280/View)|
 |      47     |  NO CLASS  |   Tuesday | 21-11-2023 | 10:45 - 12:45 |         |        Spare |              |                |
-|      47     |     1.5    |  Thursday | 23-11-2023 | 10:45 - 12:45 |  Sander | Oral lecture | Artificial neural networks |           |
+|      47     |     1.5    |  Thursday | 23-11-2023 | 10:45 - 12:45 |  Sander | Oral lecture | Artificial neural networks | [Lecture 5](https://brightspace.tudelft.nl/d2l/le/content/598105/viewContent/3567255/View) |
 |      48     |     1.6    |    Monday | 27-11-2023 | 13:45 - 15:45 |  Sander |  Lab session | Mode choice prediction | [Lab session 2](https://github.com/TPM034A/Q2_2023/blob/main/Lab_sessions/lab_session_02/lab_session_02.ipynb)               |
 |      48     |  NO CLASS  |   Tuesday | 28-11-2023 | 10:45 - 12:45 |         |        Spare |              |                |
 |      48     |     1.7    |  Thursday | 30-11-2023 | 10:45 - 12:45 |  Sander | Oral lecture | Ensembles; Random forest |           |
