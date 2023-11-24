@@ -41,9 +41,9 @@ We expect students have taken undergraduate courses on the following topics befo
 |      47     |  NO CLASS  |   Tuesday | 21-11-2023 | 10:45 - 12:45 |         |        Spare |              |                |
 |      47     |     1.5    |  Thursday | 23-11-2023 | 10:45 - 12:45 |  Sander | Oral lecture | Artificial neural networks | [Lecture 5](https://brightspace.tudelft.nl/d2l/le/content/598105/viewContent/3567255/View) |
 |      48     |     1.6    |    Monday | 27-11-2023 | 13:45 - 15:45 |  Sander |  Lab session | Mode choice prediction | [Lab session 2](https://github.com/TPM034A/Q2_2023/blob/main/Lab_sessions/lab_session_02/lab_session_02.ipynb)               |
-|      48     |  NO CLASS  |   Tuesday | 28-11-2023 | 10:45 - 12:45 |         | Oral lecture | Ensembles; Random forest             |                |
+|      48     |  NO CLASS  |   Tuesday | 28-11-2023 | 10:45 - 12:45 | Sander | Oral lecture | Ensembles; Random forest             |                |
 |      48     |     1.7    |  Thursday | 30-11-2023 | 10:45 - 12:45 |  Sander | Oral lecture | Causality; Prediction; Exam preparation |           |
-|      49     |     1.8    |    Monday | 04-12-2023 | 13:45 - 15:45 |  Sander | SPARE |  |           |
+|      49     |     1.8    |    Monday | 04-12-2023 | 13:45 - 15:45 |         | SPARE |  |           |
 |      49     |     1.9    |   Tuesday | 05-12-2023 | 10:45 - 12:45 |  Sander | Lab session  |              |                |
 |      49     |     2.1    |  Thursday | 07-12-2023 | **08:45 - 10:45** | Giacomo | Oral lecture |              | [Barredo et al. 2020](https://doi.org/10.1016/j.inffus.2019.12.012);[Lundbert & Lee 2017](https://proceedings.neurips.cc/paper_files/paper/2017/hash/8a20a8621978632d76c43dfd28b67767-Abstract.html); [Rolnick et al. 2022](https://doi.org/10.1145/3485128) [Razavi et al. 2021](https://doi.org/10.1016/j.envsoft.2020.104954) |
 |      50     |     2.2    |    Monday | 11-12-2023 | 13:45 - 15:45 | Giacomo | Oral lecture |              |                |
