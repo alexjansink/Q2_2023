@@ -35,7 +35,7 @@ We expect students have taken undergraduate courses on the following topics befo
 |:-----------:|:----------:|----------:|-----------:|--------------:|--------:|-------------:|-------------:|-----------:|
 |      46     |      0     |           |            |               |  Sander |  Lab session |              | [Lab session 0](https://github.com/TPM034A/Q2_2023/blob/main/Lab_sessions/lab_session_00/lab_session_00.ipynb) |
 |      46     |     1.1    |    Monday | 13-11-2023 | 13:45 - 15:45 |  Sander |      Opening | Motivation; LOs; Practical info | [Lecture 1](https://brightspace.tudelft.nl/d2l/le/content/598105/viewContent/3559425/View) |
-|      46     |     1.2    |   Tuesday | 14-11-2023 | 10:45 - 12:45 |  Sander | Oral lecture | ML; Generalisation; Model development | [Book part 1](https://tudelft.on.worldcat.org/oclc/1124929613) |
+|      46     |     1.2    |   Tuesday | 14-11-2023 | 10:45 - 12:45 |  Sander | Oral lecture | ML; Generalisation; Model development | [Book part 1](https://tudelft.on.worldcat.org/oclc/1124929613) [Lecture 2](https://brightspace.tudelft.nl/d2l/le/content/598105/viewContent/3562326/View) |
 |      46     |     1.3    |  Thursday | 16-11-2023 | 10:45 - 12:45 |  Sander |  Lab session | Liveability in NL | [Lab session 1](https://github.com/TPM034A/Q2_2023/blob/main/Lab_sessions/lab_session_01/lab_session_01.ipynb) | 
 |      47     |     1.4    |    Monday | 20-11-2023 | 13:45 - 15:45 |  Sander | Oral lecture | Decision trees; Model performance | [Lecture 4](https://brightspace.tudelft.nl/d2l/le/content/598105/viewContent/3565280/View)|
 |      47     |  NO CLASS  |   Tuesday | 21-11-2023 | 10:45 - 12:45 |         |        Spare |              |                |
